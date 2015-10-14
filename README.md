@@ -1,5 +1,8 @@
 ## SimpleForm & Bootstrap DateTimepicker for Rails
 
+This gem is based on zpaulovics/datetimepicker-rails
+
+
 This gem packages the bootstrap-datetimepicker for Rails asset pipeline and creates the Simple Form custom fields for your project.
 
 ### Features
@@ -19,7 +22,7 @@ This gem packages the bootstrap-datetimepicker for Rails asset pipeline and crea
  - Rails 4.2
  - Simpleform 3.1
  - Momentjs-rails 2.9
- - http://eonasdan.github.io/bootstrap-datetimepicker version 4.7.15
+ - http://eonasdan.github.io/bootstrap-datetimepicker version 4.7.37
 
 
 ### Branches
